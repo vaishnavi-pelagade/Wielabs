@@ -1,0 +1,11 @@
+const String homeimage1 = "assets/chicken.png";
+const String homeimage2 = "assets/fish.png";
+const String homeimage3 = "assets/prawns.png";
+const String homeimage4 = "assets/meat.png";
+const String homeimage5 = "assets/product.png";
+const String homeimage6 = "assets/pa2.png";
+const String homeimage7 = "assets/pa3.png";
+const String homeimage8 = "assets/pa4.png";
+const String homeimage9 = "assets/pa5.png";
+const String homeimage10 = "assets/pa6.png";
+const String homeimage11 = "assets/pa7.png";
